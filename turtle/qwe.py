@@ -2,8 +2,8 @@ import turtle
 import random
 
 turtle.screensize(200,200)
-turtle.speed(100)
-turtle.pensize(3)
+turtle.speed(1000)
+turtle.pensize(1)
 
 #turtle.bgcolor('black')
     
